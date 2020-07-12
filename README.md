@@ -13,6 +13,8 @@ Currently, the HOD takes into account hundreds of different factors to make its 
 
 > Our results can be found [here](https://docs.google.com/presentation/d/1GHAn7mJwcziCJKoNjoPT1itJP-0fwEBp_LWq4GeAeYE/edit?usp=sharing).
 
+> Our ***Data Studio report*** can be found [here](https://datastudio.google.com/reporting/bc6d3174-ddf1-4f4e-b446-8191fefdce91)
+
 ## Our GCP Journey
 In order to accomplish this analysis we used a 6 GCP tools. Each tool provide the advantages of cloud storage, analytics and AI/ML which helped accomplish this Data Hack in the 24 hour time limit.
 
