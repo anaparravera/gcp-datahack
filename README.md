@@ -1,6 +1,10 @@
 # UC Davis & Google Cloud Data Hack
 The Amazing A's present... a beautiful project that we hope you enjoy :two_hearts:!
 
+> Our deck containing the results can be found [here](https://docs.google.com/presentation/d/1GHAn7mJwcziCJKoNjoPT1itJP-0fwEBp_LWq4GeAeYE/edit?usp=sharing).
+
+> Our ***Data Studio report*** can be found [here](https://datastudio.google.com/reporting/bc6d3174-ddf1-4f4e-b446-8191fefdce91)
+
 ## The Social Issue
 Over the last several decades, homelessness in the United States has been steadily increasing and is a social issue that affects one in every 200 Americans. To many Americans, interactions with homeless individuals is an everyday occurance, and to some it is an issue that directly affects our loved ones. So we wanted to ask the question, how can analytics improve the way we support individuals struggling with homelessness and step into a tomorrow where the fear of homelessness is mitigated.
 
@@ -10,10 +14,6 @@ The premise and background research of this analysis pointed to the fact that ou
 *Luckily*, public sentiment can be analyzed using machine learning techniques with the help of the **Google Cloud Platform (GCP)**. By taking the video/audio of already readily available local government open meetings where members of the communities get to express their opinions on housing or homeless funding proposals, text can be transcripted and natural language processing techniques can be applied to calculate the average public sentiment on the issue. Having this information on the 400+ CoCs in the US can help HUD better optimize the distribution of funding to aid the low income and homeless communities. 
 
 Currently, the HOD takes into account hundreds of different factors to make its prediction of future homelessness levels in America. Using the 2019 HUD prediction model as a jumping off point, utilizing other machine learning techniques provide a strongly fit model that tells the story of predicted homeless population growth being correlated with the current number of available shelter options for low income or disabled individuals. This means that America is stuck in a very dangerous cycle of not funding shelter facilities which leads to more systemic homelessness. 
-
-> Our results can be found [here](https://docs.google.com/presentation/d/1GHAn7mJwcziCJKoNjoPT1itJP-0fwEBp_LWq4GeAeYE/edit?usp=sharing).
-
-> Our ***Data Studio report*** can be found [here](https://datastudio.google.com/reporting/bc6d3174-ddf1-4f4e-b446-8191fefdce91)
 
 ## Public Sentiment
 The Department of Housing and Urban Development (HUD) is the US government agency that is responsible for providing homelessness related aid and coordinating national level effort to help mitigate the effects of homelessness on individuals. Currently, HUD utilizes a machine learning approach to predict future homeless population level in what they call Continuum of Care Areas (CoCs) which is unique way to divide up counties and cities within the US based historic population density of homeless need. 
