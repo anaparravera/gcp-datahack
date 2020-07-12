@@ -15,6 +15,17 @@ Currently, the HOD takes into account hundreds of different factors to make its 
 
 > Our ***Data Studio report*** can be found [here](https://datastudio.google.com/reporting/bc6d3174-ddf1-4f4e-b446-8191fefdce91)
 
+## Public Sentiment
+The Department of Housing and Urban Development (HUD) is the US government agency that is responsible for providing homelessness related aid and coordinating national level effort to help mitigate the effects of homelessness on individuals. Currently, HUD utilizes a machine learning approach to predict future homeless population level in what they call Continuum of Care Areas (CoCs) which is unique way to divide up counties and cities within the US based historic population density of homeless need. 
+
+However, one of the main ways HUD financially supports in need communities is by financially funding homeless shelter facilities. The proposed location of these facilities more often than not stir up public controversy from local business owners and residents. The development of these facilities often require the approval at the CIty Council level. It is at this level where public sentiment can have a significant, potentially negative, impact on the usage of HUD and local government funding toward homelessness. 
+
+To best promote social good and reduce the habitual social injustice against homeless people, both predicted total homeless population and public sentiment need to be taken into grant distribution decisions. This is not to say that areas without positive sentiment on the issue should not be provided funding, but understanding public sentiment can help better determine the type of aid that can be provide to best serve the homeless community.
+
+We decided to measure public sentiment by analysis City COuncil public addresses. For the purpose of this presentation, we focused on three CoC areas as displayed above; Sacramento County CoC, Bakersfield/Kern County CoC, and Orange/ Santa Ana County CoC. From these visualization and our analysis we can pull out some impactful insights to promote social justice for the homeless community.
+
+
+
 ## Our GCP Journey
 In order to accomplish this analysis we used a 6 GCP tools. Each tool provide the advantages of cloud storage, analytics and AI/ML which helped accomplish this Data Hack in the 24 hour time limit.
 
