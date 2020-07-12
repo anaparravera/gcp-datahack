@@ -33,12 +33,12 @@ def sample_long_running_recognize(storage_uri, coc=None):
     client = speech_v1.SpeechClient()
 
     if coc=='Sacramento':
-        storage_uri = 'gs://avo-bucket-datahack/SacramentoCityCouncil082719.flac'
-        # storage_uri = 'gs://avo-bucket-datahack/SacramentoCityCouncil082719_s.flac'
+        # storage_uri = 'gs://avo-bucket-datahack/SacramentoCityCouncil082719.flac'
+        storage_uri = 'gs://avo-bucket-datahack/SacramentoCityCouncil082719_short.flac'
     elif coc=='Orange':
         storage_uri = 'gs://avo-bucket-datahack/VirtualTownHall_OrangeCounty_04302020.flac'
     elif coc=='Bakersfield':
-        storage_uri = 'gs://avo-bucket-datahack/kerncounty_citycouncil.flac'
+        storage_uri = 'gs://avo-bucket-datahack/kerncounty_citycouncil_short.flac'
 
     # Sample rate in Hertz of the audio data sent
     sample_rate_hertz = 44100
