@@ -1,0 +1,11 @@
+# ignore hidden files
+.DS_Store
+.ipynb_checkpoints
+
+# my files just for my eyes
+avo-datahack.json
+parsing-resulting-text.ipynb
+sentiments.json
+
+# temp files
+transcripts
