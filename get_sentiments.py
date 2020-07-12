@@ -52,7 +52,7 @@ def get_sentiments(coc_areas):
 
 
 def main():
-    print("Calculating sentiments...\n")
+    print("Calculating sentiments...")
     coc_areas = ["Sacramento","Bakersfield","Orange"]
     get_sentiments(coc_areas)
 
